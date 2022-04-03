@@ -1,2 +1,2 @@
 # Cyber-Portfolio-Guide
-A spreadsheet that will help manage and guide your professional portfolio. Track certifications, memberships, courses, CTFs, books, and more. Also plan future learning goals to ensure success down the road.
+This spreadsheet template will help manage and guide your professional cyber portfolio. Track certifications, courses, CPEs, Memberships, CTFs, labs, books, and more. It also can be used to plan future learning goals to ensure success down the road to promote growth.
