@@ -20,3 +20,5 @@ The following sheet allows you to track any CTFs or Labs that you complete or pl
 The last sheet concerns good old fashioned books. These can be cyber related or leadership, self-improvement, or even just a good fiction novel. Definitely try to read a good variety of books to continue building a well-rounded mind.
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/102703911/161411036-3082fcbb-982c-48ba-a42a-1ab83967e546.png)
+
+When downloading the file, all of the prepopulated information is only an example/reference. Feel free to delete them if you wish. Direct any questions, comments, or suggestions for improvement to https://www.linkedin.com/in/micah-vanfossen/.
