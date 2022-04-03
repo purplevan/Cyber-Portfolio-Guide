@@ -5,9 +5,14 @@ Text explaining the Certifcations Tracker sheet
 
 
 Text explaining the Courses and CPE's sheet
+![Screenshot (50)](https://user-images.githubusercontent.com/102703911/161411027-817db907-eaea-4a18-84b5-db942145bbaf.png)
+
 
 Text explaining the Orgs sheet
+![Screenshot (51)](https://user-images.githubusercontent.com/102703911/161411030-63711192-ad0a-4733-bfe5-75cb78b19e6b.png)
 
 Text explaining the CTFs and Labs sheet
+![Screenshot (52)](https://user-images.githubusercontent.com/102703911/161411033-82ffa0d5-b164-4649-9535-0ba53954aceb.png)
 
 Text explaining the Books sheet
+![Screenshot (53)](https://user-images.githubusercontent.com/102703911/161411036-3082fcbb-982c-48ba-a42a-1ab83967e546.png)
