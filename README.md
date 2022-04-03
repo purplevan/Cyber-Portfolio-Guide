@@ -5,7 +5,7 @@ The first sheet is a certification tracker. It provides all of the details neede
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/102703911/161410690-2f51901d-f80f-4ce5-bcc3-c8d75daf78c4.png)
 
-Next we have the Courses and CPEs sheet. Here you can track courses you would like to take or have already taken. You can also identify how many CPEs you have to allow for proper planning so that you don't need to cram in 30 CPEs a week before your submission deadline.
+Next we have the Courses and CPEs sheet. Here you can track courses you would like to take or have already taken. You can also identify how many CPEs you have collected to allow for proper planning so that you don't need to cram in 30 CPEs a week before your submission deadline.
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/102703911/161411027-817db907-eaea-4a18-84b5-db942145bbaf.png)
 
@@ -13,7 +13,7 @@ The third sheet is a place to track the organizations and memberships that you b
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/102703911/161411030-63711192-ad0a-4733-bfe5-75cb78b19e6b.png)
 
-The following sheet allows you to track any CTFs or Labs that you complete or plan to participate in. This sheet can fill up fast, but the ability to track all of the labs you do is invaluable when looking for experience or skills you may have. Hands-on learning is a great weapon to have in the arsenal. 
+The following sheet allows you to track any CTFs or Labs that you complete or plan to participate in. This sheet can fill up fast, but the ability to track all of the labs you do is invaluable when looking for or organizing experience and skills you may have. Hands-on learning is a great weapon to have in the arsenal. 
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/102703911/161411033-82ffa0d5-b164-4649-9535-0ba53954aceb.png)
 
