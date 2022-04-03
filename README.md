@@ -13,7 +13,7 @@ The third sheet is a place to track the organizations and memberships that you b
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/102703911/161411030-63711192-ad0a-4733-bfe5-75cb78b19e6b.png)
 
-The following sheet allows you to track any CTFs or Labs that you complete or plan to participate in. 
+The following sheet allows you to track any CTFs or Labs that you complete or plan to participate in. This sheet can fill up fast, but the ability to track all of the labs you do is invaluable when looking for experience or skills you may have. Hands-on learning is a great weapon to have in the arsenal. 
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/102703911/161411033-82ffa0d5-b164-4649-9535-0ba53954aceb.png)
 
