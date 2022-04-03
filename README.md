@@ -1,7 +1,7 @@
 # Cyber-Portfolio-Guide
 This spreadsheet template will help manage and guide your professional cyber portfolio. Track Certifications, Courses, CPEs, Memberships, CTFs, Labs, Books, and more. It can also be used to plan future learning goals to promote growth.
 
-The first sheet is a certification tracker. It provides all of the details needed to keep track of your certifications as your cyber career progresses. Further down on this sheet is a section to track and plan for future certifcations, and certification roadmaps from sources such as Paul Jerimy, SANS, CompTIA, and others. The roadmaps can be used to help identify recommended paths of certification as well as certifications that apply to specific domains of cyber.
+The first sheet is a certification tracker. It provides all of the details needed to keep track of your certifications as your cyber career progresses. The amount of time (days) until renewal and the current status will be automatically tracked for each certification. Further down on this sheet is a section to track and plan for future certifcations, and certification roadmaps from sources such as Paul Jerimy, SANS, CompTIA, and others. The roadmaps can be used to help identify recommended paths of certification as well as certifications that apply to specific domains of cyber.
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/102703911/161410690-2f51901d-f80f-4ce5-bcc3-c8d75daf78c4.png)
 
