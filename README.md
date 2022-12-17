@@ -5,19 +5,13 @@ The first sheet is a certification tracker. It provides all of the details neede
 
 <img width="922" alt="CertTrack" src="https://user-images.githubusercontent.com/102703911/208263526-5b3efb93-7ab8-4c17-93c2-0e4192706bd1.PNG">
 
-![Screenshot (49)](https://user-images.githubusercontent.com/102703911/161410690-2f51901d-f80f-4ce5-bcc3-c8d75daf78c4.png)
-
 Next we have the Courses and CPEs sheet. Here you can track courses you would like to take or have already taken. You can also identify how many CPEs you have collected to allow for proper planning so that you don't need to cram in 30 CPEs a week before your submission deadline.
 
 <img width="916" alt="CPETrack" src="https://user-images.githubusercontent.com/102703911/208263530-67682793-a917-439c-a66c-298d0360b504.PNG">
 
-![Screenshot (50)](https://user-images.githubusercontent.com/102703911/161411027-817db907-eaea-4a18-84b5-db942145bbaf.png)
-
 The third sheet is a place to track the organizations and memberships that you belong to within the cyber community. Some organizations have stricter membership requirements than others, it is best to know and document important dates and costs associated with these organizations prior to joining.
 
 <img width="694" alt="Orgs" src="https://user-images.githubusercontent.com/102703911/208263539-af710f1c-98b0-475c-88f0-6b9cf2c641d0.PNG">
-
-![Screenshot (51)](https://user-images.githubusercontent.com/102703911/161411030-63711192-ad0a-4733-bfe5-75cb78b19e6b.png)
 
 The following sheet allows you to track any CTFs or Labs that you complete or plan to participate in. This sheet can fill up fast, but the ability to track all of the labs you do is invaluable when looking for or organizing experience and skills you may have. Hands-on learning is a great weapon to have in the arsenal. 
 
